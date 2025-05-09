@@ -1,2 +1,3 @@
 # DevOps-Engineer
-🛠 DevOps-инженер, который не спит после деплоя   > Рассказываю о том, как автоматизировать всё, что можно, и даже то, что нельзя. CI/CD, контейнеры, облака и бесконечные баги — здесь есть место всему.
+🛠 DevOps-Engineer, DevOps-deploydan keyin uxlamaydigan muhandis > mumkin bo'lgan va hatto mumkin bo'lmagan narsalarni qanday avtomatlashtirish haqida gapiring. 
+CI / CD, konteynerlar, bulutlar va cheksiz xatolar — hamma narsaga joy bor.
